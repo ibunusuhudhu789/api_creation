@@ -260,15 +260,3 @@ You can test all endpoints using:
 # 👨‍💻 Author
 
 Ibunu Suhudhu
-
----
-
-# ⭐ Future Improvements
-
-- Add PATCH method support
-- Add proper API authentication system
-- Use Flask-Migrate for database migrations
-- Add frontend interface
-- Deploy API online
-- Add Swagger documentation
-- Improve filtering and search functionality
