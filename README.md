@@ -213,6 +213,16 @@ api_key=thisismysecretkey
 
 ---
 
+# 🔐 API Documentation
+
+The API Documentation is given below.
+
+```text
+https://documenter.getpostman.com/view/54681293/2sBXqQEHXn
+```
+
+---
+
 # 🧠 What I Learned
 
 - Building REST APIs with Flask
